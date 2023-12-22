@@ -1,9 +1,8 @@
 # mxblog
-Static blog. Powered by [Matrix](https://matrix.org)
+Статический блог. Работает на [Matrix](https://matrix.org)
 
-# How it worked?
-You should enter room id after # like #!id:homeserver.ru and if room has guest support it will display
+# Как оно работает?
+При переходе на #!id:homeserver.ru если комната разрешает просмотр гостям, то появляется "список постов"
 
-You can get event by #id:homeserver.ru/!event_id:homeserver.ru
-
+Можно получить отдельное событие через #id:homeserver.ru/!event_id:homeserver.ru
 [![Made with Bulma](https://bulma.io/images/made-with-bulma.png)](https://bulma.io)
